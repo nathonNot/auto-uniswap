@@ -1,0 +1,70 @@
+No files changed, compilation skipped
+Script ran successfully.
+
+== Return ==
+router: contract UniversalRouter 0xEfEE4BaB67aBEc28F062cb7fCafD4CD9a09b26c3
+
+== Logs ==
+  UnsupportedProtocol deployed: 0xc2Ad52d49F086E0772abae762F6255071AA2e1B6
+  permit2: 0xfc28E1E20A3FCa55961912Cd75bE74cf359b0AAa
+  weth9: 0xd719d83785C46e084F4621d3d43f3f117Fdd6225
+  seaport: 0xc2Ad52d49F086E0772abae762F6255071AA2e1B6
+  seaportV1_4: 0xc2Ad52d49F086E0772abae762F6255071AA2e1B6
+  openseaConduit: 0xc2Ad52d49F086E0772abae762F6255071AA2e1B6
+  nftxZap: 0xc2Ad52d49F086E0772abae762F6255071AA2e1B6
+  x2y2: 0xc2Ad52d49F086E0772abae762F6255071AA2e1B6
+  foundation: 0xc2Ad52d49F086E0772abae762F6255071AA2e1B6
+  sudoswap: 0xc2Ad52d49F086E0772abae762F6255071AA2e1B6
+  elementMarket: 0xc2Ad52d49F086E0772abae762F6255071AA2e1B6
+  nft20Zap: 0xc2Ad52d49F086E0772abae762F6255071AA2e1B6
+  cryptopunks: 0xc2Ad52d49F086E0772abae762F6255071AA2e1B6
+  looksRareV2: 0xc2Ad52d49F086E0772abae762F6255071AA2e1B6
+  routerRewardsDistributor: 0xc2Ad52d49F086E0772abae762F6255071AA2e1B6
+  looksRareRewardsDistributor: 0xc2Ad52d49F086E0772abae762F6255071AA2e1B6
+  looksRareToken: 0xc2Ad52d49F086E0772abae762F6255071AA2e1B6
+  v2Factory: 0xc2Ad52d49F086E0772abae762F6255071AA2e1B6
+  v3Factory: 0xe0b0C27099152291D9C4a15EF9980e1d929188D9
+  Universal Router Deployed: 0xEfEE4BaB67aBEc28F062cb7fCafD4CD9a09b26c3
+
+## Setting up 1 EVM.
+
+==========================
+
+Chain 111557560
+
+Estimated gas price: 1.000000254 gwei
+
+Estimated total gas used for script: 5246443
+
+Estimated amount required: 0.005246444332596522 ETH
+
+==========================
+##
+Sending transactions [0 - 1].
+##
+Waiting for receipts.
+
+##### 111557560
+✅  [Success]Hash: 0x6f36b9865f927205b63d7788e72a3c073d742f997e4a0cb093bb2155a22e6901
+Contract Address: 0xc2Ad52d49F086E0772abae762F6255071AA2e1B6
+Block: 392004
+Paid: 0.000076435 ETH (76435 gas * 1 gwei)
+
+
+##### 111557560
+✅  [Success]Hash: 0x98bda917c68eacd8bc3ff36b5969270f4a605f7133d7d28a43023798fe416a57
+Contract Address: 0xEfEE4BaB67aBEc28F062cb7fCafD4CD9a09b26c3
+Block: 392004
+Paid: 0.003960529 ETH (3960529 gas * 1 gwei)
+
+
+
+==========================
+
+ONCHAIN EXECUTION COMPLETE & SUCCESSFUL.
+Total Paid: 0.004036964 ETH (4036964 gas * avg 1 gwei)
+
+Transactions saved to: /mnt/d/project/uniswap/auto-uniswap/universal-router/broadcast/DeployCyberTest.s.sol/111557560/run-latest.json
+
+Sensitive values saved to: /mnt/d/project/uniswap/auto-uniswap/universal-router/cache/DeployCyberTest.s.sol/111557560/run-latest.json
+

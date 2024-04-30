@@ -1,0 +1,6 @@
+{
+    "url": "https://rpc.bitlayer.org",
+    "chainId": 200901,
+    "weth9": "0xfF204e2681A6fA0e2C3FaDe68a1B28fb90E4Fc5F",
+    "gasPrice": 1000000000
+}

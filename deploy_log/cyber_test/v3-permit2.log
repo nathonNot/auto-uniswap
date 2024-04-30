@@ -1,0 +1,18 @@
+Compiling 79 files with 0.8.17
+Solc 0.8.17 finished in 361.51s
+Compiler run [33msuccessful with warnings:[0m
+[1;33mWarning (5740)[0m[1;37m: Unreachable code.[0m
+   [34m-->[0m lib/solmate/src/tokens/ERC20.sol:135:25:
+[34m    |[0m
+[34m135 |[0m                         [33mkeccak256([0m
+[34m    |[0m                         [1;33m^ (Relevant source part starts here and spans across multiple lines).[0m
+
+[1;33mWarning (5740)[0m[1;37m: Unreachable code.[0m
+   [34m-->[0m lib/solmate/src/tokens/ERC20.sol:156:13:
+[34m    |[0m
+[34m156 |[0m             [33mallowance[recoveredAddress][spender] = value;[0m
+[34m    |[0m             [1;33m^ (Relevant source part starts here and spans across multiple lines).[0m
+
+Deployer: 0xe5e0Bd2EdBa9a9AD09CBA7081c31272953Eb8948
+Deployed to: 0x79E4EC7dD8D57c83bE2Ac4b1E3EF5AEaEC084B0A
+Transaction hash: 0x51fdce338b57f6009ab0caecc00bf473cf8071b69278839cea3d4aefcc1be9ca

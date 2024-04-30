@@ -1,0 +1,3 @@
+node_modules/*
+permit2/lib/*
+universal-router/lib/*
